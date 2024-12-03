@@ -1,0 +1,62 @@
+name: swachha_nagar_v1
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+
+
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+  velocity_x: ^4.2.1
+  get: ^4.6.6
+  smooth_page_indicator: ^1.2.0+3
+  shared_preferences: ^2.3.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+      - assets/images/
+      - assets/images/on_boarding_images/
+      - assets/images/home_images/
+      - assets/icons/
+      - assets/icons/bottom_navigation_bar/
+
+  fonts:
+    - family: poppins_light
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+    - family: poppins_regular
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+    - family: poppins_medium
+      fonts:
+        - asset: assets/fonts/Poppins-Medium.ttf
+    - family: poppins_semibold
+      fonts:
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+
+
+  

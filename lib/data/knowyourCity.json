@@ -1,0 +1,32 @@
+[
+    {
+      "image": "image1.png",
+      "title": "Clean Streets Initiative",
+      "description": "A project focused on maintaining clean streets by involving the local community in daily waste management practices."
+    },
+    {
+      "image": "image2.png",
+      "title": "E-Waste Recycling Drive",
+      "description": "A campaign to collect and properly recycle electronic waste, reducing harmful environmental impact."
+    },
+    {
+      "image": "image3.png",
+      "title": "Water Waste Management",
+      "description": "An initiative that tackles water waste by educating residents on efficient water use and proper disposal methods."
+    },
+    {
+      "image": "image4.png",
+      "title": "Animal Waste Collection",
+      "description": "A service dedicated to the safe and hygienic disposal of dead animals, keeping neighborhoods clean and disease-free."
+    },
+    {
+      "image": "image5.png",
+      "title": "Community Clean-Up Events",
+      "description": "Regular clean-up drives organized in collaboration with local volunteers to remove litter and beautify public spaces."
+    },
+    {
+      "image": "image6.png",
+      "title": "Compost and Green Waste Management",
+      "description": "A system that promotes composting of organic waste, turning it into valuable resources for gardening and landscaping."
+    }
+  ]
